@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a CS undergrduate at the University of Calgary. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaza-k&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaza-k&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaza-k&layout=compact&theme=dracula" />
