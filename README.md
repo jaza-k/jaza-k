@@ -1,10 +1,12 @@
+<img src="https://github.com/jaza-k/jaza-k/blob/main/main-cover.png"/>
+
 ## Hello <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30px" height="30px" />
 
 🍁 My name is Jaza and I'm a software developer/security enthusiast based in Canada. I'm currently doing my CS undergrad at the University of Calgary.
 
 🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
 
-🌱 I’m currently learning Svelte JS
+🌱 I’m currently learning Svelte JS.
 
 🪐 Fun fact: I am trilingual and a huge fan of anything astronomy.
 
