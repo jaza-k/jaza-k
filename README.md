@@ -8,7 +8,7 @@
 
 🌱 I’m currently trying out Svelte JS (and liking it).
 
-🪐 Fun fact: I am trilingual and a huge fan of anything astronomy.
+🪐 Fun fact: I am trilingual and a huge fan of astronomy.
 
 <p>
     <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=8876D1"/>
