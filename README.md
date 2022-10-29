@@ -2,9 +2,11 @@
 
 🍁 My name is Jaza and I'm a software developer/security enthusiast based in Canada. I'm currently doing my CS undergrad at the University of Calgary.
 
-🪐 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
+🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
 
 🌱 I’m currently learning Svelte JS
+
+🪐 Fun fact: I am trilingual and a huge fan of anything astronomy.
 
 <p>
     <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=8876D1"/>
