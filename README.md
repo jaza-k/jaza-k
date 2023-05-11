@@ -6,7 +6,7 @@
 
 🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
 
-🌱 I’m currently trying out Svelte JS (and liking it).
+⚡ I’m currently exploring CNNs for deep learning.
 
 🪐 Fun fact: I am trilingual and a huge fan of astronomy.
 
