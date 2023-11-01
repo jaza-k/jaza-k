@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/badge/Contact-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white&color=8876D1"/>
 </p>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaza-k&show_icons=true&include_all_commits=true&theme=nightowl&count_private=true&hide=stars,issues&hide_rank=true" />
-</a> -->
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaza-k&layout=compact&theme=nightowl&langs_count=6&hide=assembly,html,css" />
 </a
