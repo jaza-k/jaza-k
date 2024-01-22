@@ -7,7 +7,7 @@
 
 🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
 
-⚡ I’m currently working as a web developer in Calgary on internship. I'm always open to new opportunities!
+⚡ I'm currently looking for a Summer 2024 internship and I'm always open to new opportunities!
 
 🪐 Fun fact: I am trilingual and a huge fan of astronomy.
 
