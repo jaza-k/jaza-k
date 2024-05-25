@@ -5,7 +5,7 @@
 
 🍁 I'm Jaza, a software developer/security enthusiast based in Canada. I'm currently doing my CS undergrad at the University of Calgary.
 
-🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or studying for a midterm.
+🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or riding my motorcycle.
 
 ⚡ I'm currently looking for a Fall 2024 internship and I'm always open to new opportunities!
 
