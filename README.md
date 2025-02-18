@@ -3,11 +3,11 @@
 
 ## Hello <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="25" height="25"/>
 
-🍁 I'm Jaza, a software developer/security enthusiast based in Canada. I'm currently doing my CS undergrad at the University of Calgary.
+🍁 I'm Jaza, a software developer/security enthusiast based in Canada. I've recently completed my CS undergrad at the University of Calgary.
 
 🦋 I like to create, design, develop, and build new things that spark my interest. When I’m not coding away, I can probably be found working out, playing video games or riding my motorcycle.
 
-⚡ I'm currently looking for a Winter 2025 internship and I'm always open to new graduate opportunities!
+⚡ I'm currently looking for new graduate opportunities and I'm always open to new locations!
 
 🪐 Fun fact: I am trilingual and a huge fan of astronomy.
 
